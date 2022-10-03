@@ -1,13 +1,3 @@
----
-layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
 
 Education
 ======
@@ -22,29 +12,10 @@ Work experience
 * Bioinformatics Consultant, McGill University, Montreal, Canada (2016 - 2018)  
 * Research Assistant Professor, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China (2011 - 2013)
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Research
-#======
-#  <ul>{% for post in site.research %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
 Services and Outreach 
 ======
 * Associated Editor at Frontiers in Genetics
 * Reviewer for over 20 different journals and conferences
-
 * Organizer of DT Lunch&Learn seminar (2019-2022)
 * Technical Chair of NRC Quantum Computing Workshop (2020)
 
