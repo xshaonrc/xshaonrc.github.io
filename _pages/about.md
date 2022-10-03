@@ -18,7 +18,9 @@ Email: xiaojian.shao@nrc-cnrc.gc.ca
 Adjunct Professor\
 [Department of Biochemistry, Microbiology and Immunology](https://www2.uottawa.ca/faculty-medicine/biochemistry-microbiology-immunology)\
 Faculty of Medicine, [University of Ottawa](https://www2.uottawa.ca/en)\
-Ottawa, Ontario, Canada K1H 8M5
+Ottawa, Ontario, Canada K1H 8M5\
+Email: xshao2@uottawa.ca
+
 
 I have opportunities open for students interested in doing Masters or Ph.D in areas related to AI in biological systems and computational epigonomics. These positions will be co-supervised with Canadian university professors. Please email me if interested.
 
