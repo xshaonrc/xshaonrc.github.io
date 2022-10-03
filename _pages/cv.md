@@ -11,40 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Operation Research and Management, China Agricultural University
+* Visting Ph.D student in Bioinformatics, University of Toronto
+* Postdoctoral fellow at McGill University Genome Centre, McGill University  
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Officer, National Research Council of Canada, Ottawa, Canada (2018 - present)
+* Adjunct Professor, University of Ottawa, Ottawa, Canada (2022 - present)
+* Bioinformatics Consultant, McGill University, Montreal, Canada (2016 - 2018)  
+* Research Assistant Professor, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China (2011 - 2013)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.research %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -54,6 +41,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services and Outreach 
 ======
-* Currently signed in to 43 different slack teams
+* Associated Editor at Frontiers in Genetics
+* Reviewer for over 20 different journals and conferences
+
+Student Supervising
+======
+* Saif Zabarah (Master co-op student, University of Ottawa, winter 2019), project: DNA methylation imputation using machine learning
+* Orhan Sari (Undergraduate, McGill University, summer 2020 & summer 2021), project: in silico CRISPR-Cas9 off-target effect prediction
+* Renad Al-Ghazawi (Master student, University of Ottawa, 2021-2023), thesis project: Computational modeling of muscle regeneration dynamics from time-series single cell
+* Praveen Guttula (Postdoc,Univesity of Ottawa, 2022-), project: AI powered design of stem cell therapy for degenerative muscle diseases 
