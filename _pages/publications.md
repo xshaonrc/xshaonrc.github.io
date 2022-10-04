@@ -9,11 +9,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Peer-reviewed Journal Publications (* co-first author, # co-corresponding author)
 ======
-
-
-37. Mylarappa Ningappa, Xiaojian Shao*, Chethan Ashokkumar, Qingyong Xu, Adriana Zeevi, Elin Grundberg, Tomi Pastinen, Rakesh Sindhi. The role of dynamic DNA methylation in liver transplant rejection in children. Transplantation Direct 2022.\
-36. Xiaojian Shao#, Catherine Le Stunff, Warren Cheung, Tony Kwan, Mark Lathrop, Tomi Pastinen, Pierre Bougnères. Differentially methylated CpGs in response to growth hormone administration in children with idiopathic short stature. Clinical Epigenetics 2022, 14(1):1-12.\
-35. Xiang Li, Xiaojian Shao, Lydia A Bazzano, Qiaochu Xue, Boryana S Koseva, Elin Grundberg, Iris Shai, George A Bray, Frank M Sacks, Lu Qi. Blood DNA methylation at TXNIP and glycemic changes in response to weight-loss diet interventions: The POUNDS lost trial. International Journal of Obesity 2022, 46(6):1122-1127\
+Mylarappa Ningappa, Xiaojian Shao*, Chethan Ashokkumar, Qingyong Xu, Adriana Zeevi, Elin Grundberg, Tomi Pastinen, Rakesh Sindhi. The role of dynamic DNA methylation in liver transplant rejection in children. Transplantation Direct 2022.\
+36.  Xiaojian Shao#, Catherine Le Stunff, Warren Cheung, Tony Kwan, Mark Lathrop, Tomi Pastinen, Pierre Bougnères. Differentially methylated CpGs in response to growth hormone administration in children with idiopathic short stature. Clinical Epigenetics 2022, 14(1):1-12.\
+35.  Xiang Li, Xiaojian Shao, et al. Blood DNA methylation at TXNIP and glycemic changes in response to weight-loss diet interventions: The POUNDS lost trial. International Journal of Obesity 2022, 46(6):1122-1127\
 34． Yang Guo, Fatemeh Esfahani, Xiaojian Shao, et al. Integrative COVID-19 biological network inference with probabilistic core decomposition, Briefings in Bioinformatics, 2021; bbab455\
 33． Yixiao Zeng, Kaiqiong Zhao, Kathleen Oros Klein, Xiaojian Shao, et al. Thousands of CpGs Show DNA Methylation Differences in ACPA-Positive Individuals. Genes, 2021, 12(9): 1349.\
 32． Xiaolin Huang, Xiaojian Shao, et al. The impact of lockdown timing on COVID-19 transmission across US counties. EClinicalMedicine, 2021, 38: 101035.\
