@@ -17,10 +17,14 @@ This study will focus on population-dynamic models (simulations) of skeletal mus
 The goal of this study is to develop a machine learning or deep learning based predictive model using peripheral blood epigenetic (particularly DNA methylation) biomarkers for the early detection of Alzheimer’s disease (AD) and other dementias..
 
 * [NRC Digital Health and Geospatial Analytics Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/digital-health-geospatial-analytics) : **Discovery of single-cell omics biomarkers in alveolar macrophages for immunotherapy of chronic obstructive pulmonary disease**, 2022-2025, Collaborator: [Dr. Xuekui Zhang](https://ubcxzhang.github.io/).\
-This project will develop digital technologies to discover alveolar macrophages biomarkers for novel chronic obstructive pulmonary disease therapy (COPD) by integrating both bulk and single cell omics data. The Project will demonstrate the translational capabilities of single-cell ‘omics technologies and provide biomarker candidates for immunotherapy of COPD.
+This project will develop digital technologies to discover alveolar macrophages biomarkers for novel chronic obstructive pulmonary disease therapy (COPD) by integrating both bulk and single cell omics data. The project will demonstrate the translational capabilities of single-cell ‘omics technologies and provide biomarker candidates for immunotherapy of COPD.
 
 
 Completed Research Projects
 
 * National Natural Science Foundation of China : **Dynamic Analysis of DNA Methylation Pattern Heterogeneity during Cell Differentiation and Reprogramming**, 2013-2015.\
 This study aims to develop novel bioinformatics approach to assess DNA methylation variations for a large number of genomic loci in different cell populations, including stem cells, iPSCs and differentiated cells. 
+
+* National Natural Science Foundation of China : **Genome-wide Analysis on Interaction Mechanism of DNA Methylation and Histone H3K79 Methylation in MLL-ENL Leukemia**. 2013-2015.\
+The objective of this study is to investigate the interaction mechanism of DNA methylation and histone methylation in a subtype of Leukemia – MLL-ENL leukemia, using genome-wide sequencing data.
+
