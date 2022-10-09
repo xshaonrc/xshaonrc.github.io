@@ -50,5 +50,5 @@ Peer-reviewed Journal Publications (* co-first author, # co-corresponding author
 
 Chapter in Book
 ======
-1．	Mingan Sun, **Xiaojian Shao**, Yejun Wang, Microarray Data Analysis for Transcriptome Profiling. Methods Molecular Biology, Vol. 1751, Yejun Wang and Ming-an Sun (Eds): Transcriptome Data Analysis: Methods and Protocols, 978-1-4939-7709-3, 421690_1_En, (13), 2018 \
-2．	**Xiaojian Shao#**, Mingan Sun. Predicting Gene Expression Noise from Gene Expression Variations. Methods Molecular Biology, Vol. 1751, Yejun Wang and Ming-an Sun (Eds): Transcriptome Data Analysis: Methods and Protocols, 978-1-4939-7709-3, 421690_1_En, (13), 2018
+1．Mingan Sun, **Xiaojian Shao**, Yejun Wang, Microarray Data Analysis for Transcriptome Profiling. Methods Molecular Biology, Vol. 1751, Yejun Wang and Ming-an Sun (Eds): Transcriptome Data Analysis: Methods and Protocols, 978-1-4939-7709-3, 421690_1_En, (13), 2018 \
+2．**Xiaojian Shao#**, Mingan Sun. Predicting Gene Expression Noise from Gene Expression Variations. Methods Molecular Biology, Vol. 1751, Yejun Wang and Ming-an Sun (Eds): Transcriptome Data Analysis: Methods and Protocols, 978-1-4939-7709-3, 421690_1_En, (13), 2018
