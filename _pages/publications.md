@@ -31,13 +31,13 @@ Peer-reviewed Journal Publications (* co-first author, # co-corresponding author
 
 1. Ariane Lismer*, ***Xiaojian Shao\***, Marie-Charlotte Dumargne, Christine Lafleur, Romain Lambrot, Donovan Chan, Gunnar Toft, Jens Peter Bonde, Amanda J MacFarlane, Riana Bornman, Natalie Aneck-Hahn, Sean Patrick, Janice M Bailey, Christiaan De Jager, Vanessa Dumeaux, Jacquetta M Trasler, Sarah Kimmins. Long‑term DDT or DDE exposures associated with altered sperm epigenome. Environmental Health Perspectives 2024, 132(1):017008.
 
-1.Yushan Hu, **Xiaojian Shao**, Li Xing, Xuan Li, Geoffrey M Nonis, Graeme J Koelwyn, Xuekui Zhang, Don D Sin. Single‑cell sequencing of lung macrophages and monocytes reveals therapeutic targets in COPD. Cells 2023, 12(24):2771.
+1. Yushan Hu, **Xiaojian Shao**, Li Xing, Xuan Li, Geoffrey M Nonis, Graeme J Koelwyn, Xuekui Zhang, Don D Sin. Single‑cell sequencing of lung macrophages and monocytes reveals therapeutic targets in COPD. Cells 2023, 12(24):2771.
 
 1. Xiang Li, **Xiaojian Shao**, Minghao Kou, Xuan Wang, Hao Ma, Elin Grundberg, Lydia A Bazzano, Steven R Smith, George A Bray, Frank M Sacks, Lu Qi. DNA methylation at ABCG1 and long‑term changes in adiposity and fat distribution. Diabetes Care 2023, 46(12):2201-2207.
 
 1. Xiang Li, Xiaojian Shao, Qiaochu Xue, Minghao Kou, Catherine M Champagne, Boryana S Koseva, Yoriko Heianza, Elin Grundberg, Lydia A Bazzano, George A Bray, Frank M Sacks, Lu Qi. DNA methylation near CPT1A and changes in triglyceride‑rich lipoproteins during weight‑loss diet interventions. Journal of Clinical Endocrinology & Metabolism 2023, 108(8):e542-e549. 
 
-1.Minghao Kou, Xiang Li, **Xiaojian Shao**, Elin Grundberg, Xuan Wang, Hao Ma, Yoriko Heianza, J Alfredo Martinez, George A Bray, Frank M Sacks, Lu Qi. DNA methylation of birthweight–blood pressure genes and changes in blood pressure during weight‑loss diets. Hypertension 2023,80(6):1223-1230.
+1. Minghao Kou, Xiang Li, **Xiaojian Shao**, Elin Grundberg, Xuan Wang, Hao Ma, Yoriko Heianza, J Alfredo Martinez, George A Bray, Frank M Sacks, Lu Qi. DNA methylation of birthweight–blood pressure genes and changes in blood pressure during weight‑loss diets. Hypertension 2023,80(6):1223-1230.
 
 1. Sophia Rahimi, **Xiaojian Shao**, Donovan Chan, Josée Martel, Anick Bérard, William D Fraser, Marie-Michelle Simon, Tony Kwan, Guillaume Bourque, Jacquetta Trasler. Sex‑specific and hypofertility‑linked effects of assisted reproductive technologies on cord blood DNA methylome. Clinical Epigenetics 2023, 15(1):82.
 
