@@ -9,7 +9,44 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Peer-reviewed Journal Publications (* co-first author, # co-corresponding author)
 ======
+1. Pradeep Eranti, Raphaël Vernet, Christophe Linhard, Bing Ge, Laura Beaumier, Anne-Marie Madore, Sébastien Chanoine, …, **Xiaojian Shao**, et al. Functional assessment of a convergent gene network underlying allergic diseases and IgE. Journal of Allergy and Clinical Immunology 2026. In Press.
+
+1. Aurélie Le Lay, François Brial, Claude Rouch, **Xiaojian Shao**, Mathieu Bourgey, Kazuhiro Sonomura, Huiting Ou, Sara Ghezzal, Mylène Vincent, Marylène Rugard, Karine Audouze, Jiannis Ragoussis, Fumihiko Matsuda, Guillaume Bourque, Elin Grundberg, Mark Lathrop, Christophe Magnan, Dominique Gauguier. Gastrectomy promoted diabetes remission involves the molecular clock and epigenetic mechanisms in a rat model of lean type 2 diabetes. Scientific Reports 2025.
+
+1. Bowei Xiao, Yixiao Zeng, Kathleen Oros Klein, Bianca Granato, Mathieu Blanchette, **Xiaojian Shao**, Celia MT Greenwood. A multivariate approach to identify association between peripheral blood DNA methylation and cerebrospinal fluid biomarkers of Alzheimer disease. Scientific Reports 2025.
+ 
+1. Renad Al-Ghazawi, Hassan Lezzeik, **Xiaojian Shao#**, Theodore J Perkins#.  Differential equation modeling of cell population dynamics in skeletal muscle regeneration from single‑cell transcriptomic data. PLOS Computational Biology 2025, 21(10): e1013575.
+
+1. Kailun Bai, Belaid Moa, **Xiaojian Shao**, Xuekui Zhang. scSorterDL: A deep neural network‑enhanced ensemble LDAs for single cell classifications. Briefings in Bioinformatics 2025, 26(5):bbaf446.
+
+1. Kailun Bai, Belaid Moa, **Xiaojian Shao#**,  Xuekui Zhang#. PCLDA: An interpretable cell annotation tool for single‑cell RNA‑sequencing data based on simple statistical methods. Computational and Structural Biotechnology Journal 2025.
+
+1. **Xiaojian Shao#**, Sophie Le Fur, Warren Cheung, Marie-Pierre Belot, Kevin Perge, Natacha Bouhours-Nouet, Candace Bensignor, Lucie Levaillant, Bing Ge, Tony Kwan, Mark Lathrop, Tomi Pastinen, Pierre Bougnères#. CpG methylation changes associated with hyperglycemia in type 1 diabetes occur at angiogenic glomerular and retinal gene loci. Scientific Reports 2025, 15(1):15999.
+
+1. Orhan Sari, Ziying Liu, Youlian Pan#, **Xiaojian Shao#**. (2025). Predicting CRISPR-Cas9 off-target effects in human primary cells using bidirectional LSTM with BERT embedding. Bioinformatics Advances 2025, 5(1):vbae184
+
+1. Pierre Bougnères, Sophie Le Fur, Yoichiro Kamatani, Thanh-Nga Mai, Marie-Pierre Belot, Kevin Perge, Isis-Diab group, **XiaoJian Shao**, Mark Lathrop, Alain-Jacques Valleron. Genomic variants associated with age at diagnosis of childhood‑onset type 1 diabetes. Journal of Human Genetics 2024. 69(11):585-590.
+
+1. Charles de Ponthaud, Solafah Abdalla, Marie-Pierre Belot, **Xiaojian Shao**, Christophe Penna, Antoine Brouquet, Pierre Bougnères. Increased CpG methylation at the CDH1 locus in inflamed ileal mucosa of patients with Crohn disease. Clinical Epigenetics 2024, 16(1):28.
+
+1. Ariane Lismer*, ***Xiaojian Shao\***, Marie-Charlotte Dumargne, Christine Lafleur, Romain Lambrot, Donovan Chan, Gunnar Toft, Jens Peter Bonde, Amanda J MacFarlane, Riana Bornman, Natalie Aneck-Hahn, Sean Patrick, Janice M Bailey, Christiaan De Jager, Vanessa Dumeaux, Jacquetta M Trasler, Sarah Kimmins. Long‑term DDT or DDE exposures associated with altered sperm epigenome. Environmental Health Perspectives 2024, 132(1):017008.
+
+1.Yushan Hu, **Xiaojian Shao**, Li Xing, Xuan Li, Geoffrey M Nonis, Graeme J Koelwyn, Xuekui Zhang, Don D Sin. Single‑cell sequencing of lung macrophages and monocytes reveals therapeutic targets in COPD. Cells 2023, 12(24):2771.
+
+1. Xiang Li, **Xiaojian Shao**, Minghao Kou, Xuan Wang, Hao Ma, Elin Grundberg, Lydia A Bazzano, Steven R Smith, George A Bray, Frank M Sacks, Lu Qi. DNA methylation at ABCG1 and long‑term changes in adiposity and fat distribution. Diabetes Care 2023, 46(12):2201-2207.
+
+1. Xiang Li, Xiaojian Shao, Qiaochu Xue, Minghao Kou, Catherine M Champagne, Boryana S Koseva, Yoriko Heianza, Elin Grundberg, Lydia A Bazzano, George A Bray, Frank M Sacks, Lu Qi. DNA methylation near CPT1A and changes in triglyceride‑rich lipoproteins during weight‑loss diet interventions. Journal of Clinical Endocrinology & Metabolism 2023, 108(8):e542-e549. 
+
+1.Minghao Kou, Xiang Li, **Xiaojian Shao**, Elin Grundberg, Xuan Wang, Hao Ma, Yoriko Heianza, J Alfredo Martinez, George A Bray, Frank M Sacks, Lu Qi. DNA methylation of birthweight–blood pressure genes and changes in blood pressure during weight‑loss diets. Hypertension 2023,80(6):1223-1230.
+
+1. Sophia Rahimi, **Xiaojian Shao**, Donovan Chan, Josée Martel, Anick Bérard, William D Fraser, Marie-Michelle Simon, Tony Kwan, Guillaume Bourque, Jacquetta Trasler. Sex‑specific and hypofertility‑linked effects of assisted reproductive technologies on cord blood DNA methylome. Clinical Epigenetics 2023, 15(1):82.
+
+1. Shuai You, Xiaolin Huang, Li Xing, Mary Lesperance, Charles LeBlanc, L Paul Moccia, Vincent Mercier, **Xiaojian Shao**, Youlian Pan, Xuekui Zhang. Dynamics of fecal coliform bacteria along Canada’s coast. Marine Pollution Bulletin 2023, 189:114712.
+
+1. **Xiaojian Shao#**,Xiaojian Shao, Catherine Le Stunff, Warren Cheung, Tony Kwan, Mark Lathrop, Tomi Pastinen, Pierre Bougnères#. Differentially methylated CpGs in response to growth hormone administration in children with idiopathic short stature. Clinical Epigenetics 2022, 14(1):65.
+
 1. **Xiaojian Shao#**, Sangeetha Vishweswaraiah, Miroslava Čuperlović-Culf et al. Dementia with Lewy bodies post-mortem brains reveal differentially methylated CpG sites with biomarker potential. Nature Communications Biology, 2022
+
 1. Mylarappa Ningappa\*, **Xiaojian Shao\***, Chethan Ashokkumar, Qingyong Xu, Adriana Zeevi, Elin Grundberg, Tomi Pastinen, Rakesh Sindhi. The role of dynamic DNA methylation in liver transplant rejection in children. Transplantation Direct 2022.
 1.  **Xiaojian Shao#**, Catherine Le Stunff, Warren Cheung, Tony Kwan, Mark Lathrop, Tomi Pastinen, Pierre Bougnères. Differentially methylated CpGs in response to growth hormone administration in children with idiopathic short stature. Clinical Epigenetics 2022, 14(1):1-12.
 1.  Xiang Li, **Xiaojian Shao**, et al. Blood DNA methylation at TXNIP and glycemic changes in response to weight-loss diet interventions: The POUNDS lost trial. International Journal of Obesity 2022, 46(6):1122-1127
@@ -51,4 +88,4 @@ Peer-reviewed Journal Publications (* co-first author, # co-corresponding author
 Chapter in Book
 ======
 1．Mingan Sun, **Xiaojian Shao**, Yejun Wang, Microarray Data Analysis for Transcriptome Profiling. Methods Molecular Biology, Vol. 1751, Yejun Wang and Ming-an Sun (Eds): Transcriptome Data Analysis: Methods and Protocols, 978-1-4939-7709-3, 421690_1_En, (13), 2018 \
-1．**Xiaojian Shao#**, Mingan Sun. Predicting Gene Expression Noise from Gene Expression Variations. Methods Molecular Biology, Vol. 1751, Yejun Wang and Ming-an Sun (Eds): Transcriptome Data Analysis: Methods and Protocols, 978-1-4939-7709-3, 421690_1_En, (13), 2018
+2．**Xiaojian Shao#**, Mingan Sun. Predicting Gene Expression Noise from Gene Expression Variations. Methods Molecular Biology, Vol. 1751, Yejun Wang and Ming-an Sun (Eds): Transcriptome Data Analysis: Methods and Protocols, 978-1-4939-7709-3, 421690_1_En, (13), 2018
