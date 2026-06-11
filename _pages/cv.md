@@ -31,6 +31,16 @@ Services and Outreach
 * Organizer of DT Lunch&Learn seminar (2019-2022)
 * Technical Chair of NRC Quantum Computing Workshop (2020)
 
+Honors and Awards
+======
+* Editorial Contribution Award 2026, BMC Genomics
+* Excellent in Research Award, 2025, DT, NRC
+* Outstanding Contribution Award, 2020, DT, NRC
+* Studentship from The Research Institute of the McGill University Health Center, 2015
+* Graduate Scientific Achievement Award, CAU, 2010
+* Second-class Young-scholar Paper Award by Beijing Operation Research Society, 2007
+
+
 Student Supervising
 ======
 * Nianxiao Che (Undergraduate, University of Waterloo, co-op student 2026), project: Predicting Cellular and Clinical Phenotypes from scRNA-seq Using AI
