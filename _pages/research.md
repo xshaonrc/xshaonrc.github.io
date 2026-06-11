@@ -7,20 +7,27 @@ author_profile: true
 
 Current Research Projects
 
-* [NRC AI for Design Challenge Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/artificial-intelligence-design-challenge-program") : **AI for precision discovery on associations in biological systems**, 2020-2023, Collaborator: [Dr. Gary Bader](https://baderlab.org/Home). \
-The objective of this project is to design AI-based approaches for quantitative exploration of the single-cell ‘omics big data, build precise associations between different omics data and phenotypes in cell-type specific way as well as linking genotypes to different phenotypes through single-cell CRISPR screening data.
+* [Canadian Institutes of Health Research](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=533419&lang=en): **From Stress to Strength: DNA Methylation Entropy as a Mechanism for Developmental Plasticity**, 2026-2030, Co-applicant. Collaborators: [Dr. Lei Cao](https://www.uottawa.ca/faculty-health-sciences/interdisciplinary/our-professors/lei-cao) , and [Dr. Gerald F Giesbrecht](https://cumming.ucalgary.ca/labs/developmental-psychobiology/people/dr-giesbrecht).\
+This project explores how stress during pregnancy affects a baby's development by looking at changes in the modification of their DNA (i.e., DNA methylation). This project focuses on a new concept called DNA methylation entropy, which measures how flexible or "plastic" a child's biology is-how ready they are to respond to their environment.
+
+
+* [NRC Digital Health and Geospatial Analytics Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/digital-health-geospatial-analytics) : **Discovery of single-cell omics biomarkers in alveolar macrophages for immunotherapy of chronic obstructive pulmonary disease**, 2022-2026, Collaborator: [Dr. Xuekui Zhang](https://ubcxzhang.github.io/).\
+This project will develop digital technologies to discover alveolar macrophages biomarkers for novel chronic obstructive pulmonary disease therapy (COPD) by integrating both bulk and single cell omics data. The project will demonstrate the translational capabilities of single-cell ‘omics technologies and provide biomarker candidates for immunotherapy of COPD.
+
+
+* [NRC Aging in Place Challenge Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/aging-place-challenge-program) : **Early detection of cognitive decline using epigenetic biomarkers in peripheral blood**, 2021-2026, Collaborators: [Dr. Mathieu Blanchette](https://www.cs.mcgill.ca/~blanchem/) and [Dr. Celia Greenwood](https://www.mcgill.ca/statisticalgenetics/) . \
+The goal of this study is to develop a machine learning or deep learning based predictive model using peripheral blood epigenetic (particularly DNA methylation) biomarkers for the early detection of Alzheimer’s disease (AD) and other dementias..
+
+Completed Research Projects
+* [NRC New Beginnings Initiative](https://nrc.canada.ca/en/research-development/research-collaboration/programs/ideation-fund-where-breakthroughs-begin): **Identification of sperm epigenome plasticity in men and its role in paternal disease transmission**, 2024-2025, Collaborator: [Dr. Sarah Kimmins](https://www.chumontreal.qc.ca/en/crchum/chercheurs/sarah-kimmins). \
+This project will use machine learning and genome-wide sperm DNA methylation data from four cohorts to identify environmentally susceptible epigenetic regions that escape embryonic reprogramming and may mediate the transmission of complex disease risk across generations. The study focuses on three major epigenome-altering factors: obesity, advanced paternal age, and toxicant exposure.
 
 * [NRC AI for Design Challenge Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/artificial-intelligence-design-challenge-program") : **AI powered design of stem cell therapy for degenerative muscle diseases**, 2021-2023, Collaborators: [Dr. Theodore Perkins](https://www.perkinslab.ca/), [Dr. Jeffrey Dilworth](https://www.ohri.ca//profile/F_Jeffrey_Dilworth) and [Dr. Michael Rudnicki](https://www.ohri.ca/profile/mrudnicki). \
 This study will focus on population-dynamic models (simulations) of skeletal muscle regeneration and gene regulatory networks as well as the cell-cell communications involved in this particular process using AI-driven approaches.
 
-* [NRC Aging in Place Challenge Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/aging-place-challenge-program) : **Early detection of cognitive decline using epigenetic biomarkers in peripheral blood**, 2021-2024, Collaborators: [Dr. Mathieu Blanchette](https://www.cs.mcgill.ca/~blanchem/) and [Dr. Celia Greenwood](https://www.mcgill.ca/statisticalgenetics/) . \
-The goal of this study is to develop a machine learning or deep learning based predictive model using peripheral blood epigenetic (particularly DNA methylation) biomarkers for the early detection of Alzheimer’s disease (AD) and other dementias..
+* [NRC AI for Design Challenge Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/artificial-intelligence-design-challenge-program") : **AI for precision discovery on associations in biological systems**, 2020-2023, Collaborator: [Dr. Gary Bader](https://baderlab.org/Home). \
+The objective of this project is to design AI-based approaches for quantitative exploration of the single-cell ‘omics big data, build precise associations between different omics data and phenotypes in cell-type specific way as well as linking genotypes to different phenotypes through single-cell CRISPR screening data.
 
-* [NRC Digital Health and Geospatial Analytics Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/digital-health-geospatial-analytics) : **Discovery of single-cell omics biomarkers in alveolar macrophages for immunotherapy of chronic obstructive pulmonary disease**, 2022-2025, Collaborator: [Dr. Xuekui Zhang](https://ubcxzhang.github.io/).\
-This project will develop digital technologies to discover alveolar macrophages biomarkers for novel chronic obstructive pulmonary disease therapy (COPD) by integrating both bulk and single cell omics data. The project will demonstrate the translational capabilities of single-cell ‘omics technologies and provide biomarker candidates for immunotherapy of COPD.
-
-
-Completed Research Projects
 
 * National Natural Science Foundation of China : **Dynamic Analysis of DNA Methylation Pattern Heterogeneity during Cell Differentiation and Reprogramming**, 2013-2015.\
 This study aims to develop novel bioinformatics approach to assess DNA methylation variations for a large number of genomic loci in different cell populations, including stem cells, iPSCs and differentiated cells. 
